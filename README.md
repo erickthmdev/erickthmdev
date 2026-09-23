@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Back-end | ASP.NET Core & Entity Framework</h3>
 
 <p align="center">
-  17 anos, no último ano do ensino médio, aprendendo desenvolvimento back-end
+  No último ano do ensino médio, aprendendo desenvolvimento back-end
   na prática — com foco em C#, ASP.NET Core e Entity Framework.
 </p>
 

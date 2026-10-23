@@ -1,32 +1,67 @@
-<h1 align="center">Olá, eu sou o Erick 👋</h1>
-<h3 align="center">Desenvolvedor Back-end | ASP.NET Core & Entity Framework</h3>
+# Hi 👋, I'm Erick
 
-<p align="center">
-  No último ano do ensino médio, aprendendo desenvolvimento back-end
-  na prática — com foco em C#, ASP.NET Core e Entity Framework.
+### Backend Developer | C# & .NET
+
+Building reliable APIs, clean architecture, and scalable backend systems.
+
+---
+
+## 🚀 About Me
+
+I'm a backend developer focused on building REST APIs and learning software engineering best practices.
+
+- 💻 Working with **C#, .NET and ASP.NET Core**
+- 🗄️ Building applications with **PostgreSQL and Entity Framework Core**
+- 🔐 Learning more about authentication, security and API architecture
+- 🛠️ Interested in clean code, SOLID principles and scalable systems
+- 📚 Always learning and building new projects
+
+**My goal:** Build reliable software and grow as a backend engineer.
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,github,visualstudio,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 📌 Featured Projects
 
-- 🎓 Cursando o último ano do ensino médio
-- 💻 Back-end com C#, ASP.NET Core e Entity Framework
-- 🌱 Estudando via cursos, documentação e projetos práticos
-- 🤖 De olho em como IA está mudando o jeito de desenvolver
-- 📫 Aberto a trocar ideias — me chama no LinkedIn ou email abaixo
+### 🛒 CommerceApi
+REST API for an e-commerce system, built with ASP.NET Core, Entity Framework Core and PostgreSQL.
 
----
+### 🦷 SistemaOdontologicoApi
+Dental clinic management API with patients, appointments and clinical records.
 
-### 🛠️ Tecnologias
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework-6DB33F?style=for-the-badge&logo=nuget&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ✅ TarefasApi
+Task management API built with ASP.NET Core, PostgreSQL and Entity Framework Core.
 
 ---
 
-### 📌 Projetos em destaque
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=erickthmdev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickthmdev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erickthmdev&theme=tokyo-night&hide_border=true)](https://github.com/erickthmdev)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erickthmdev)
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
